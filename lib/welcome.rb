@@ -1,3 +1,1 @@
-
-
-"Welcome to Tic Tac Toe!"
+Puts "Welcome to Tic Tac Toe!"
